@@ -4,3 +4,4 @@ Express.js, manages API interactions and database
 communications. The system’s AI component intelligently processes queries, simulating reallife interactions. Future enhancements include advanced machine learning to improve personalization and 
 efficiency. This project demonstrates the application of fullstack development and AI in improving customer 
 service and operational efficiency. 
+![image](https://github.com/user-attachments/assets/fba23fbe-2875-4f8d-ac61-204717ef625a)
