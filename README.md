@@ -6,4 +6,6 @@ efficiency. This project demonstrates the application of fullstack development a
 service and operational efficiency. 
 
 SYSTEM ARCHITECTURE
+
+
 ![image](https://github.com/user-attachments/assets/fba23fbe-2875-4f8d-ac61-204717ef625a)
